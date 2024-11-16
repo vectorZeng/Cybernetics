@@ -16,7 +16,6 @@
 **b站[Dr.Can](https://space.bilibili.com/230105574)**  
 
 讲得比大多数MOOC好
-![alt text](<屏幕截图 2024-11-12 151930.png>)
 
 ## 英文
 
@@ -25,8 +24,6 @@ Youtube上的 [MATLAB官方视频](https://www.youtube.com/@MATLAB)
 其中我**格外推荐**[Brian Douglas](http://engineeringmedia.com)的视频，讲得非常好，但对英语水平可能有一定要求，就当练英语了。
 
 
-
-![alt text](image.png)
 
 # 书籍
 
